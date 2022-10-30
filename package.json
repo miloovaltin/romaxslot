@@ -1,0 +1,16 @@
+{
+"name": "romaxslot",
+"theme": "romax slot",
+"version": "5.5.7",
+"description": "romax slot ทางเข้าเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 ให้เงินเครดิตฟรี",
+"keywords": [
+"romax slot",
+"romax slot เครดิตฟรี",
+"romax slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/romaxslot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
